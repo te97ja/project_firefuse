@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "enter the number"
-read n
+#echo "enter the number"
+#read n
 fact=1
 while [ $n -ge 1 ]
 do
